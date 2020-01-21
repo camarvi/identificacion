@@ -1,0 +1,45 @@
+
+#principal {
+
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+
+#secundario1 {
+
+	float:left;
+	
+}
+
+#secundario2 {
+	float:left;
+	margin-top: 10px; 
+	margin-left: 130px;
+}
+
+.logo_sas {
+	overflow: auto;
+	
+}
+
+.logo_sas img {
+
+	align:left; 
+	width:230px; 
+	height:50px;
+}
+
+.texto {
+	margin-left:25px; 
+	margin-top:15px
+}
+
+.margen_sup {
+	margin-top: 15px; 
+}
+
+.foto_prof {
+	width:110px;
+	height:110px;
+}

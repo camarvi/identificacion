@@ -1,0 +1,47 @@
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 350px;
+    
+}
+
+.firma {
+	height: 50px;
+	width: 80px;
+    position: absolute;
+    left: 50%;
+}
+
+.texto-encima {
+    position: absolute;
+    top:70px;
+    left: 2px;
+    width: 100%;
+    font-weight: bold;
+    font-size: 1em;
+    
+}
+
+.centrado {
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color : white;
+    font-weight: bold;
+    font-size: 1.2em;
+    
+} 
+
+
+.centrado2 {
+    position: absolute;
+    top:90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color : red;
+    font-weight: bold;
+    font-size: 1.2em;
+    
+} 
